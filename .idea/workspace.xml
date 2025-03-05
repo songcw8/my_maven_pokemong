@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6d5d472-68c6-4202-b687-deacd86c5502" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/src/main/java/main.java" afterDir="false" />
+    <list default="true" id="c6d5d472-68c6-4202-b687-deacd86c5502" name="변경" comment="firstCommit">
+      <change beforePath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../데브코스 생성형 AI 백엔드/Java_Study/my_maven" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "songcw8"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/songcw8/my_maven_pokemong.git",
+    "accountId": "e80a5b1c-2089-4242-a1b5-58f9ebf5df74"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -52,10 +60,41 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.main (1).executor": "Run",
+    "애플리케이션.main (2).executor": "Run",
+    "애플리케이션.main (3).executor": "Run",
     "애플리케이션.main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.main (4)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="my_maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="my_maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="my_maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="my_maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="my_maven" />
@@ -65,7 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.main (4)" />
+        <item itemvalue="애플리케이션.main (3)" />
         <item itemvalue="애플리케이션.main" />
+        <item itemvalue="애플리케이션.main (2)" />
+        <item itemvalue="애플리케이션.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -85,11 +128,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741155703835</updated>
-      <workItem from="1741155704813" duration="2130000" />
+      <workItem from="1741155704813" duration="5313000" />
     </task>
+    <task id="LOCAL-00001" summary="firstCommit">
+      <option name="closed" value="true" />
+      <created>1741157935827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741157935827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstCommit" />
   </component>
 </project>
